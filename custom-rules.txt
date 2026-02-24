@@ -1,0 +1,9 @@
+@@||youtube.com/youtubei/v1/next*
+@@||youtube.com/youtubei/v1/live_chat*
+@@||youtube.com/youtubei/v1/updated_metadata*
+youtube.com#@#ytd-comments
+youtube.com#@#ytd-comment-section-renderer
+youtube.com#@#ytd-comment-thread-renderer
+youtube.com#@#ytd-live-chat-frame
+youtube.com#@#yt-live-chat-renderer
+youtube.com#@#yt-live-chat-item-list-renderer
